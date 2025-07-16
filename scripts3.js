@@ -18,6 +18,8 @@ a.addEventListener("click", () =>{
      i2=i1/(1200)
      eq=m1*(((1+i2)**t2)-1)*(1+i2)/i2
     c.textContent = eq
+    b.textContent = m1*t2
+    
     a.style.borderRight="1px solid black"
     a.style.borderLeft="1px solid black"
 
