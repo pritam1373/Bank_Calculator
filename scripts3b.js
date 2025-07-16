@@ -6,10 +6,6 @@ t=document.getElementById("somoy")
 i=document.getElementById("sudh")
 f=document.getElementById("tm")
 g=document.getElementById("ti")
-
-
-
-
 a.addEventListener("click", () =>{
     m1=m.value
      t1=t.value
